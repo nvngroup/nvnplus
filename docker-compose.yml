@@ -97,7 +97,7 @@ services:
     ports:
       - 8080:8080
     env_file:
-      - .env.evolution-acme
+      - .env-evolution-acme
     volumes:
       - evolution_data:/evolution/instances
 
