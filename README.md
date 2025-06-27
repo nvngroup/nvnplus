@@ -1,5 +1,3 @@
-# NVN.PLUS
-
 <div align="center">
 
 ![NVN.PLUS Logo](https://github.com/user-attachments/assets/8cd401e2-a783-4b69-a3b2-ab371fac711a)
